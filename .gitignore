@@ -1,0 +1,9 @@
+.vscode
+**/Makefile
+**/.lh
+**/.history
+**/CMakeCache.txt
+**/CMakeFiles
+**/cmake_install.cmake
+waveformgen
+output/
